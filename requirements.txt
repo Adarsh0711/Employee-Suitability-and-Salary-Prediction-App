@@ -1,7 +1,8 @@
 streamlit
 pandas
 numpy
+pickle-mixin  # pickle is part of the standard library, but pickle-mixin can be added for non-standard objects
 matplotlib
 seaborn
 plotly
-pickle-mixin
+scikit-learn  # Assuming you are using scikit-learn for decision trees and ridge regression
